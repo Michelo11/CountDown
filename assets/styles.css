@@ -1,0 +1,64 @@
+.container{font-family: 'Roboto', sans-serif; background-image: url("background.svg"); background-size: cover; background-repeat: no-repeat; min-width: 100%; min-height: 100%; position: absolute; margin: -8px;}
+
+.home{
+    display: flex;
+    right: 50%;
+    top: 50%;
+    position: absolute;
+    transform: translate(50%);
+}
+
+span {
+    align-items: center;
+    text-align: center;
+    margin: 0 0 0 50px;
+}
+
+h1 {
+    margin: 0;
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+span:first-child{
+    margin-left: 0;
+}
+
+.title{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.contact{
+
+    right: 0;
+    bottom: 0;
+    position: absolute;
+}
+
+.fa-envelope{
+    font-size: 25px;
+    color: white;
+    padding-right: 10px;
+    margin-bottom: -10px;
+}
+
+.fa-phone{
+    font-size: 25px;
+    color: white;
+    padding-right: 10px;
+    margin-bottom: -10px;
+}
+
+
+
+@media (min-device-width: 375px) and (max-device-width: 812px) {
+    .home {
+        transform: scale(0.5) translate(100%);
+    }
+}

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="visual"
+   viewBox="0 0 900 600"
+   width="900"
+   height="600"
+   version="1.1"
+   sodipodi:docname="background.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs21" />
+  <sodipodi:namedview
+     id="namedview19"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.3816667"
+     inkscape:cx="445.47648"
+     inkscape:cy="356.81544"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g16" />
+  <rect
+     width="900"
+     height="600"
+     fill="#001829"
+     id="rect2" />
+  <g
+     transform="matrix(0.44404497,0,0,0.44404497,665.12942,69.843184)"
+     id="g10-5">
+    <path
+       d="m 0,-109 94.4,54.5 v 109 L 0,109 -94.4,54.5 v -109 z"
+       fill="#297ea6"
+       id="path8-2" />
+  </g>
+  <g
+     id="g16">
+    <g
+       transform="translate(64.828709,468.75633)"
+       id="g6">
+      <path
+         d="m 0,-147 127.3,73.5 v 147 L 0,147 -127.3,73.5 v -147 z"
+         fill="#297ea6"
+         id="path4" />
+    </g>
+    <g
+       transform="matrix(0.66648607,0,0,0.66648607,582.51628,387.35302)"
+       id="g10">
+      <path
+         d="m 0,-109 94.4,54.5 v 109 L 0,109 -94.4,54.5 v -109 z"
+         fill="#297ea6"
+         id="path8" />
+    </g>
+    <g
+       transform="translate(188 29)"
+       id="g14">
+      <path
+         d="M0 -80L69.3 -40L69.3 40L0 80L-69.3 40L-69.3 -40Z"
+         fill="#297EA6"
+         id="path12" />
+    </g>
+  </g>
+</svg>
